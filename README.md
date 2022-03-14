@@ -8,7 +8,7 @@ This project was created as part of Codecademy's Full-Stack Engineering path.
 - [Contact](#contact)
 
 ## General Info
-The goal of this project was to create a responsive website for a fictional paint store.
+The goal of this project was to create a responsive website for a fictional photography site.
 
 A live version of the site can be viewed [here](https://deamun.github.io/fotomatic/).
 
